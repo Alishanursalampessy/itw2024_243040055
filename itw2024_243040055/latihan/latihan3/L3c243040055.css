@@ -1,0 +1,40 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    color:darkblue;
+     font-size: 60px;
+     font-family:' Comic Sans Ms';
+     text-align: center;
+    }
+
+ h4 {
+        text-align:right;
+        font-style: italic;
+}
+
+p {
+    text-align:  Center;
+    font-family: Georgia;
+}
+
+#p {
+    color: orange; 
+}
+
+#a {
+    text-align: right;   
+}
+
+#iya {
+    color: white;    
+}
+
+#iya:hover {
+    text-decoration: none;
+    color:red;   
+}
+p a:hover {
+    color:rgb(143, 109, 255); background-color: blue;
+}

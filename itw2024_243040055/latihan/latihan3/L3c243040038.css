@@ -1,0 +1,51 @@
+html {
+    background-color: aqua;
+}
+
+body {
+    text-align: justify;
+    font-family: Georgia;
+}
+
+h1 {
+    font-family: Comic Sans MS;
+    font-size: 60px;
+    color: darkblue;
+    text-align: center;
+}
+
+h4 {
+    text-align: right;
+    font-style: italic;
+}
+
+h3 {
+    color: white;
+    text-decoration-thickness: 1px;
+}
+
+#aa {
+    color: orange;
+    text-align: center;
+}
+
+#bb {
+    text-align: right;
+}
+
+#saf:hover {
+    text-decoration: none;
+    color: red;
+}
+
+p a:hover {
+    color: white;
+    background-color: blue;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#s {
+    font-weight: bold;
+    text-decoration: none;
+}

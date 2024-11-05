@@ -1,0 +1,54 @@
+html {
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+body {
+    text-align: justify;
+    font-family: Georgia;
+}
+
+h1 {
+    font-family: Comic Sans MS;
+    font-size: 60px;
+    color: darkblue;
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    font-style: italic;
+}
+
+h3 {
+    a {
+        color: red;
+        text-decoration-thickness: 1px;
+    }
+}
+
+#aa {
+    color: orange;
+    text-align: center;
+}
+
+#bb {
+    text-align: right;
+}
+
+p a:hover {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#s {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+h3 {
+    text-align: center;
+    font-size: larger;
+}
